@@ -1,0 +1,4 @@
+Update packages & Install dependencies
+
+sudo apt update && sudo apt upgrade -y sudo apt install curl build-essential git 
+
